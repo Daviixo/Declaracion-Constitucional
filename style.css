@@ -1,0 +1,31 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.container {
+	background: linear-gradient(to bottom, #4da6ff, #0077b3);
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.box {
+	background-color: rgba(255, 255, 255, 0.8);
+	padding: 50px;
+	border-radius: 0px;
+	text-align: center;
+}
+
+h1 {
+	color: black;
+	font-size: 48px;
+	margin-bottom: 20px;
+}
+
+p {
+	color: black;
+	font-size: 24px;
+}
